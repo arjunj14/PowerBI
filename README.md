@@ -54,3 +54,15 @@ This repository contains a comprehensive Power BI Dashboard designed to provide 
 ## About
 This dashboard is designed to help e-commerce store managers and stakeholders gain actionable insights into sales, profit, and order trends. It enables better decision-making by providing an intuitive and data-driven view of business performance.
 
+
+---
+
+## Contributions
+Feel free to open an [issue](https://github.com/arjunj14/PowerBI/issues) or submit a pull request to enhance the dashboard or add new features.
+
+---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/arjunj14/PowerBI/blob/main/LICENSE.md) file for details.
+
+
