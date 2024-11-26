@@ -63,6 +63,6 @@ Feel free to open an [issue](https://github.com/arjunj14/PowerBI/issues) or subm
 ---
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/arjunj14/PowerBI/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md)file for details.
 
 
