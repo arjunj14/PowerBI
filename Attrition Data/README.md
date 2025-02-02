@@ -98,4 +98,4 @@ This project is licensed under the [MIT LICENSE](LICENSE).
 
 ## Author
 
-[arjunj] - Power BI Developer & Data Analyst
+arjunj - Power BI Developer & Data Analyst
