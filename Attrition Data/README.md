@@ -17,7 +17,7 @@ The dataset consists of 26 features, including:
 
 ## Preview
 ### Dashboard Overview
-![Attrition Visualization](<Attrition visualization.png>)
+![Attrition Visualization](<Attrition Visualization.png>)
 
 ## Power BI Visualizations
 
